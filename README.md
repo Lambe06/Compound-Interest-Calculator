@@ -34,7 +34,7 @@ Steps
 Get the code
 Clone the repository:
 bash
-     git clone https://github.com/Lambe_06/compound-interest-javafx.git
+     git clone https://github.com/Lambe06/compound-interest-javafx.git
      cd compound-interest-javafx
 Or click Code → Download ZIP on the GitHub page and extract it.
 Run the application From the project's root folder (where pom.xml is located), run:
